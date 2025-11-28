@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Rychames
 
-<!--
-**Rychames/Rychames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em criar soluções modernas e escaláveis. Trabalho com aplicações completas, desde o backend até apps mobile, com ênfase em desempenho, automação e UX consistente.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que utilizo
+- **Flutter / Dart**
+- **Next.js / React / TypeScript**
+- **Node.js / Express**
+- **Android (Kotlin / Java)**
+- **Integrações com APIs REST**
+- **Automação e Web Scraping**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 O que desenvolvo
+- Aplicações mobile com arquitetura profissional (Flutter)
+- Backends robustos com Express e autenticação segura
+- Dashboards e sistemas web em Next.js
+- Apps Android otimizados e integrados a APIs
+- Serviços automatizados e integrações inteligentes
+
+## 📌 Projetos e interesses atuais
+- Aplicativos móveis completos para negócios
+- Sistemas de gestão, automação e monitoramento
+- Integrações com plataformas externas (WhatsApp API, provedores, gateways, etc.)
+- UI responsiva e fluida com Flutter e Next.js
+
+## 📫 Contato
+- GitHub: [github.com/Rychames](https://github.com/Rychames)
