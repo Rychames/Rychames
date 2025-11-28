@@ -1,57 +1,67 @@
-# 👋 Olá, eu sou o Rychames
+<h1 align="center">👋 Olá, eu sou o Rayner</h1>
 
-Desenvolvedor especializado em aplicações móveis, web e backend.  
-Atualmente atuo como desenvolvedor na **W Net Tecnologia** e na **Rios do Norte Tecnologia**.
+<p align="center">
+  Desenvolvedor Full Stack • Flutter • Next.js • Express • Android
+</p>
 
-Sou autor e responsável por projetos como:  
-- 📱 **W Net App** — aplicativo oficial para clientes da W Net  
-- 📦 **Rios Estoque** — sistema completo para gestão de inventário, relatórios e assinatura digital
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&style=flat-square)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&style=flat-square)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&style=flat-square)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=flat-square)
+<p align="center">
+  <a href="https://github.com/Rychames">
+    <img src="https://komarev.com/ghpvc/?username=Rychames&style=for-the-badge" alt="Profile Views"/>
+  </a>
+</p>
 
 ---
 
-## 📊 Estatísticas
+## 🚀 Sobre mim
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rychames&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rychames&layout=compact&theme=dark" alt="Top Langs" />
-</div>
+Atualmente trabalho como desenvolvedor nas empresas **W Net Tecnologia** e **Rios do Norte Tecnologia**.  
+Participo do desenvolvimento de soluções completas, desde backend até aplicativos mobile.
 
-### 🔁 Caso o GitHub não carregue as imagens
-Abra os links diretamente:
+Alguns dos projetos que desenvolvi:
 
-- Estatísticas gerais:  
-  https://github-readme-stats.vercel.app/api?username=Rychames&show_icons=true&theme=dark
-
-- Linguagens mais usadas:  
-  https://github-readme-stats.vercel.app/api/top-langs/?username=Rychames&layout=compact&theme=dark
-
-### 🔒 Alternativa garantida (fallback visual)
-Esses sempre carregam:
-
-![Followers](https://img.shields.io/github/followers/Rychames?label=Seguidores&style=flat-square)
-![Repos](https://img.shields.io/github/repositories/Rychames?label=Repositórios&style=flat-square)
+- 📱 **W Net App** — Aplicativo para clientes da W Net.
+- 📦 **Rios Estoque** — Sistema completo de gestão de estoque e operações internas.
 
 ---
 
-## 🚀 Projetos em Destaque
-- **W Net App** — plataforma para clientes da W Net  
-- **Rios Estoque** — sistema profissional de gestão e inventário  
+## 🛠 Tecnologias que utilizo
+
+### **Linguagens & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
+
+### **Ferramentas & Infraestrutura**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
 
 ---
 
-## 📫 Contato
-- GitHub: https://github.com/Rychames
+## 📊 Estatísticas do GitHub
+
+> ⚠️ *Essas estatísticas funcionam automaticamente. Não precisa ativar nada, basta ter repositórios públicos. Caso não apareçam, é o GitHub Stats que está instável.*
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rychames&show_icons=true&theme=dark"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rychames&layout=compact&theme=dark"/>
+</p>
 
 ---
+
+## 📎 Contato
+
+- 📧 **Email:** *adicione aqui se quiser*
+- 💼 *Em breve: portfólio online*
+
+---
+
+<p align="center">Feito com dedicação por Rayner 👨‍💻</p>
