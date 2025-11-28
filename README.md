@@ -44,22 +44,10 @@ Alguns dos projetos que desenvolvi:
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
----
-
-## 📊 Estatísticas do GitHub
-
-> ⚠️ *Essas estatísticas funcionam automaticamente. Não precisa ativar nada, basta ter repositórios públicos. Caso não apareçam, é o GitHub Stats que está instável.*
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rychames&show_icons=true&theme=dark"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rychames&layout=compact&theme=dark"/>
-</p>
-
----
-
 ## 📎 Contato
 
-- 📧 **Email:** *adicione aqui se quiser*
+- 📧 **Email:** *rychames@gmail.com*
+- 📞 **Celular:** *(92) 98112-9136*
 - 💼 *Em breve: portfólio online*
 
 ---
